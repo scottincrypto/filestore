@@ -57,7 +57,7 @@ Like the APR problem, this can be easily solved by directly querying the Fuse sm
 
 Dune allows users to submit code which creates custom tables or views, known as abstractions.  These can be used to cache data for faster access, or add external data to Dune for access in queries.
 
-To get the Fuse contract data into dune, I wrote code to iterate through the Fuse smart contracts and generate an SQL table creation query for an abstraction. I used the python library eth-brownie <link> for this, although it can be done in web3.py or equivalent libraries in other languages.  The code can be found [here](https://github.com/scottincrypto/dune-rari-fuse-assets) and the resulting abstraction is available in Dune as [rari_capital.view_rari_fuse_ftokens.](https://github.com/duneanalytics/abstractions/tree/master/ethereum/rari_capital)
+To get the Fuse contract data into Dune, I wrote code to iterate through the Fuse smart contracts and generate an SQL table creation query for an abstraction. I used the python library eth-brownie <link> for this, although it can be done in web3.py or equivalent libraries in other languages.  The code can be found [here](https://github.com/scottincrypto/dune-rari-fuse-assets) and the resulting abstraction is available in Dune as [rari_capital.view_rari_fuse_ftokens.](https://github.com/duneanalytics/abstractions/tree/master/ethereum/rari_capital)
 
 ![Dune Fuse Pools](https://github.com/scottincrypto/filestore/raw/main/mirror_posts/dune_fuse_pools.png)
 
