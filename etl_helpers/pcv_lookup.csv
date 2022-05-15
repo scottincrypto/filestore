@@ -1,0 +1,50 @@
+﻿deposit_contract_lower,name,platform
+0x0961d2a545e0c1201b313d14c57023682a546b9d,Tokemak tWETH,Tokemak
+0xa271ff86426c7fdaaae72603e6ce68c892d69ed7,Lido stETH,Lido
+0x0735e14d28ed395048d5fa4a8dbe6e6eb9fc0470,Compound ETH,Compound
+0x43ef03755991056681f01ee2182234ef6af1f658,AAVE ETH,Aave
+0x15958381e9e6dc98bd49655e36f524d2203a28bd,Uniswap FEI-ETH,Uniswap
+0x98e5f5706897074a4664dd3a32eb80242d6e694b,FEI-ETH PSM,Fei
+0xc68412b72e68c30d4e6c0854b439cbbe957146e4,Fuse Pool 146 ETH,Rari Fuse
+0x5e9fa7d783a7f7d4626ce450c8bd2ebbb26dfdb2,DAO Timelock ETH,Fei
+0xc5bb8f0253776bec6ff450c2b40f092f7e7f5b57,Balancer FEI-WETH,Balancer
+0xfde7077aaecdaf2c4b85261aa858c96a7e737a61,Compound DAI,Compound
+0x2a188f9eb761f70ecea083ba6c2a40145078dfc2,FEI-DAI PSM,Fei
+0x9cc46ab5a714f7cd24c59f33c5769039b5872491,Fuse Pool 8 DAI,Rari Fuse
+0xcce230c087f31032fc17621a2cf5e425a0b80c96,Fuse Pool 9 RAI,Rari Fuse
+0x1267b39c93711dd374deab15e0127e4adb259be0,AAVE RAI,Aave
+0x7339ca4ac94020b83a34f5edfa6e0f26986c434b,DAO Timelock RAI,Fei
+0xb250926e75b1cc6c53e77bb9426baac14ab1e24c,DAO Timelock DPI,Fei
+0x9a774a1b1208c323eded05e6daf592e6e59caa55,Fuse Pool 19 DPI,Rari Fuse
+0x8c51e4532cc745cf3dfec5cebd835d07e7ba1002,Fuse Pool 91 LUSD,Rari Fuse
+0x6026a1559cdd44a63c5ca9a078cc996a9eb68abb,Fuse Pool 7 LUSD,Rari Fuse
+0x374628ebe7ef6aca0574e750b618097531a26ff8,B Protocol LUSD,B Protocol
+0xb0e731f036adfdec12da77c15aab0f90e8e45a0e,FEI-LUSD PSM,Fei
+0xf846ee6e8ee9a6fbf51c7c65105cabc041c048ad,Fuse Pool 8 LUSD,Rari Fuse
+0x3a1838ac9eca864054bebb82c32455dd7d7fc89c,CREAM Hack Repayment,Cream
+0xe8633c49ace655eb4a8b720e6b12f09bd3a97812,agEUR Uniswap,Uniswap
+0x485d23ce5725ecde46ca9033012984d90b514ffd,DAO Timelock agEUR,Fei
+0xd2554839c2e8a87dd2cddd013ef828b6534abc26,Uniswap FEI-agEUR,Uniswap
+0xcd1ac0014e2ebd972f40f24df1694e6f528b2fd4,Balancer BAL-WETH,Balancer
+0x7eb88140af813294aedce981b6ac08fcd139d408,OA Account,Fei
+0xd6598a23418c7fef7c0dc863265515b623b720f9,Fuse Pool 8,Rari Fuse
+0xec54148cbc47bff8fcc5e04e5e8083adb8af9ad9,Fuse Pool 90 FEI,Rari Fuse
+0xb3a026b830796e43bfc8b135553a7573538ab341,Fuse Pool 79 FEI,Rari Fuse
+0x7aa4b1558c3e219cfffd6a356421c071f71966e7,Fuse Pool 6,Rari Fuse
+0x7e39bba9d0d967ee55524fae9e54900b02d9889a,Fuse Pool 19,Rari Fuse
+0x508f6fbd78b6569c29e9d75986a51558de9e5865,Fuse Pool 24,Rari Fuse
+0xb4ffd10c4c290dc13e8e30bf186f1509001515fd,Fuse Pool 25,Rari Fuse
+0x89dfbc12001b41985efabd7dfcae6a77b22e4ec3,Balancer FEI-TRIBE,Balancer
+0xe2e35097638f0ff2eeca2ef70f352be37431945f,Fuse Pool 27,Rari Fuse
+0x07f2dd7e6a78d96c08d0a8212f4097dcc129d629,Fuse Pool 18,Rari Fuse
+0x05e2e93cfb0b53d36a3151ee727bb581d4b918ce,Fuse Pool 31,Rari Fuse
+0xfac571b6054619053ac311da8112939c9a374a85,Aave V2 FEI Pool,Aave
+0xa62ddde8f799873e6fcdbb3acbba75da85d9dcde,Fuse Pool 127 FEI,Rari Fuse
+0xa2bdbcb95d31c85bae6f0fa42d55f65d609d94ee,Fuse Pool 22 FEI,Rari Fuse
+0x395b1bc1800fa0ad48ae3876e66d4c10d297650c,Fuse Pool 72 FEI,Rari Fuse
+0x1370ca8655c255948d6c6110066d78680601b7c2,Fuse Pool 156,Rari Fuse
+0xb80b3dc4f8b30589477b2ba0e4ef2b8224bdf0a5,Compound cFEI,Compound
+0x5ae217de26f6ff5f481c6e10ec48b2cf2fc857c8,Curve D3 in Convex,Convex
+0x24f663c69cd4b263cf5685a49013ff5f1c898d24,Curve D3,Curve
+0x06dacca04e201ad31393754e68da04dc14778fa6,Index & Ondo,LAAS
+0x5ddE9B4b14eDf59CB23c1d4579B279846998205e,FEI-RAI PSM,Fei
