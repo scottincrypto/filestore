@@ -1,2 +1,2 @@
 # filestore
-Place to put files 
+Place to serve files 
